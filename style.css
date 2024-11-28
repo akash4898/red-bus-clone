@@ -93,7 +93,7 @@
 }
 .banner-section-img{
     width: 100%;
-    background-image: url("file:///C:/Users/Akash/Desktop/practice/redbus/img/HomeBannerNew.png");
+    background-image: url(img/HomeBannerNew.png);
     background-size: cover;
     height: 520px;
 }
